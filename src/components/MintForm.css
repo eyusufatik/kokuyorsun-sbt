@@ -1,0 +1,18 @@
+.mint-button {
+    color: #848484;
+    text-decoration: none;
+    border: #858E96 1px solid;
+    width: 200px;
+    text-align: center;
+    height: 56px;
+    border-radius: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
